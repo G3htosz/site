@@ -38,6 +38,9 @@ header{
     right: 40px;
     top: 20px;
 
+
+    
+
 }
 
 .social{
@@ -48,7 +51,6 @@ header{
     transition: opacity 1s ease-out;
 
 }
-
 
 .social:hover{
     filter: invert(1) opacity(1); 
@@ -108,4 +110,9 @@ nav{
 .arte{
     width: 450px;
     right: 450px;
+}
+
+.Paisagem {
+    width: 250px;
+    right: 250px;
 }
