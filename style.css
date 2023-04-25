@@ -71,11 +71,11 @@ header{
 }
 
 #fotoperfil{
-    width: 120px;
+    width: 110px;
     position: absolute; 
-    left: 60px;
-    top: 240px;
-    border-radius: 50%; 
+    left: 3px;
+    top: 175px;
+    border: solid 5px cornsilk;
 }
 
 #capa h1{
@@ -90,20 +90,27 @@ header{
 nav {
     display: flex; 
     justify-content: center; 
-    margin-top: 35px;
+    margin-top: 10px;
     position: absolute;
     width: 100%;
+    background-color: white;
+    right: 0px;
+    height: 100px;
 
 }
 
 main {
-    margin-top: 50px;
+    margin-top: 65px;
 }
 
  #menu {
-    width: 190PX;
+    width: 200PX;
     display: flex;
     justify-content: space-between; 
+    background-color: white;
+    height: 40px;
+    position: relative;
+    top: 10px;
 }
 
 .botom {
