@@ -24,6 +24,7 @@ header, main, footer{
     
 }
 
+
 header{
     position: relative;
     top: 20px;
@@ -86,14 +87,21 @@ header{
 }
 
 
-nav{
+nav {
     display: flex; 
     justify-content: center; 
+    margin-top: 35px;
+    position: absolute;
+    width: 100%;
+
+}
+
+main {
     margin-top: 50px;
 }
 
  #menu {
-    width: 180PX;
+    width: 190PX;
     display: flex;
     justify-content: space-between; 
 }
@@ -110,9 +118,4 @@ nav{
 .arte{
     width: 450px;
     right: 450px;
-}
-
-.Paisagem {
-    width: 250px;
-    right: 250px;
 }
