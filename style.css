@@ -75,10 +75,11 @@ header{
 }
 
 #fotoperfil{
-    width: 110px;
+    width: 130px;
+    height: 140px;
     position: absolute; 
     left: 3px;
-    top: 175px;
+    top: 160px;
     border: solid 5px rgb(0, 0, 0);
 }
 
